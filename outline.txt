@@ -1,0 +1,18 @@
+Code Guesser
+
+Inspired by Maplestory code guessing game:
+Random 3 number code users have to guess
+
+Rules:
+If # is correct and correct position, O
+If # is correct but not in correct position, V
+If # is not correct, X
+10 Tries?
+
+GUI:
+3 Numbers users guessed
+Numpad 123, 456, 789
+Cleared
+Failed
+Tries left
+Timer: 5 seconds per guess
