@@ -45,6 +45,10 @@ header{
     color:rgb(105, 152, 252);
 }
 
+.retry{
+    
+}
+
 .numpad button{
     color: whitesmoke;
     background-color: rgb(35, 35, 165);
@@ -95,6 +99,7 @@ h2{
     display:inline;
     background-color: rgb(187, 183, 183);
 }
+
 
 
 

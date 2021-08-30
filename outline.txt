@@ -8,6 +8,7 @@ If # is correct and correct position, O
 If # is correct but not in correct position, V
 If # is not correct, X
 10 Tries?
+The code cannot have repeating numbers
 
 GUI:
 3 Numbers users guessed
@@ -16,3 +17,5 @@ Cleared
 Failed
 Tries left
 Timer: 5 seconds per guess
+
+1. Replace each class with player input
